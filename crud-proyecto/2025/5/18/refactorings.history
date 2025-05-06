@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.hibernate.model.Session.java&apos; to &apos;Sesion.java&apos;&#x0D;&#x0A;- Original project: &apos;crud-proyecto&apos;&#x0D;&#x0A;- Original element: &apos;com.hibernate.model.Session.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.hibernate.model.Sesion.java&apos;" description="Rename compilation unit &apos;Session.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hibernate.model{Session.java" name="Sesion.java" references="false" stamp="1746394094442" version="1.0"/>
+</session>
